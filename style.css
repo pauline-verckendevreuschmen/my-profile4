@@ -36,8 +36,9 @@ a:hover {
   color: #e0fbfc;
 }
 
-#profile {
+ #profile {
   border-radius: 50%;
+  width: 300px;
   box-shadow: 5px 5px 3px black
 }
 
